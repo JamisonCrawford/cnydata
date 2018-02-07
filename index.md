@@ -1,6 +1,6 @@
 ## Welcome to CNY Community Data
 
-CNYCF is devoted to cultivating a culture of data sharing and data-driven decision-making among social sector organizations throughout the Central New York Region.
+CNYCF is devoted to cultivating a culture of data sharing and data-driven decision-making among social sector organizations throughout Central New York.
 
 ### Meeting Times & Locations
 
