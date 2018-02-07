@@ -24,6 +24,6 @@ To view all R Learning Community content, visit the [R Learning Community G Driv
 
 ### About & Contact
 
-Community Data is made possible by the [Central New york Community Foundation](https://www.cnycf.org/).
+Community Data is made possible by the [Central New York Community Foundation](https://www.cnycf.org/).
 
 For questions, ideas, announcements, or contributions, including presentations and discussions, please contact Facilitator Jamison Crawford at [jrcrawfo@syr.edu](jrcrawfo@syr.edu).
