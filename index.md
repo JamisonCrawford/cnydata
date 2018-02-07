@@ -12,7 +12,8 @@ To view meeting times and locations, visit the [Community Data G Calendar](https
 
 Community Data Meetings focus on all things data-driven projects, presentations, and discussions on local matters at the city, county, and regional level. Each meeting is facilitated using a series of agenda items and are designed to cultivate a spirit and culture of data sharing in the region.
 
-To view and edit current projects, shared or requested datasets, mailing lists, potential meeting locations, and other community resources, visit the [Community Data Action Roadmap](https://docs.google.com/spreadsheets/d/1sayqL54fInEr45rhFoAqono5c4n0O94TNsXID60eQVg/edit?usp=sharing). To view all Community Data content, visit the [Community Data G Drive](https://drive.google.com/drive/folders/0Bw2_-OoxEGlbZV95dTdiNkluSVE?usp=sharing).
+* To view projects, share or request datasets, and more, visit the [Community Data Action Roadmap](https://docs.google.com/spreadsheets/d/1sayqL54fInEr45rhFoAqono5c4n0O94TNsXID60eQVg/edit?usp=sharing). 
+* To view all Community Data content, visit the [Community Data G Drive](https://drive.google.com/drive/folders/0Bw2_-OoxEGlbZV95dTdiNkluSVE?usp=sharing).
 
 ### R Learning Community
 
