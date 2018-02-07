@@ -4,7 +4,7 @@ CNYCF is devoted to cultivating a culture of data sharing and data-driven decisi
 
 ### Meeting Times & Locations
 
-Community Data meets biweekly, alternating with CNYCF's R Learning Community, providing local Social Sector professionals a venue to learn from one another, share data and ideas, and hone their data science acumen for the betterment of communities in Central New York. 
+Community Data meets biweekly, alternating with CNYCF's R Learning Community, providing local social sector professionals a venue to learn from one another, share data and ideas, and hone their data science acumen for the betterment of communities in Central New York. 
 
 * Meetings take place on Fridays, 8:30 - 9:30 AM EST, at the [CNY Philanthropy Center](https://www.google.com/maps/place/CNY+Philanthropy+Center/@43.0488732,-76.1485392,17z/data=!4m5!3m4!1s0x89d9f3bbae110615:0xc2cac552299aa1a8!8m2!3d43.0488693!4d-76.1463505).
 * To view meeting times and locations, visit the [Community Data G Calendar](https://calendar.google.com/calendar?cid=aWE0b2t2OW1xNzB1OGYyaXY3dnYxYTVyb29AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ).
