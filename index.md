@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## Welcome to CNY Community Data
 
-You can use the [editor on GitHub](https://github.com/cnycf/CommunityData/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+CNYCF is devoted to cultivating a culture of data sharing and data-driven decision-making among social sector organizations throughout the Central NY region.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Meetings
 
-### Markdown
+Community Data meets biweekly, alternating with CNYCF's R Learning Community, providing local Social Sector professionals a venue to learn from one another, share data and ideas, and hone their data science acumen for the betterment of communities in Central New York. Both take place on Fridays, from 8:30 - 9:30 AM EST, at the Central New York Philanthropy Center.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Community Data Meetings
 
-```markdown
-Syntax highlighted code block
+Community Data Meetings focus on all things data-driven projects, presentations, and discussions on local matters at the city, county, and regional level. Each meeting is facilitated using a series of agenda items and are designed to cultivate a spirit and culture of data sharing in the region.
 
-# Header 1
-## Header 2
-### Header 3
+### R Learning Community
 
-- Bulleted
-- List
+The R Learning Community focuses on the fundamentals of R programming, RStudio, and data science. Each session, a facilitator leads learners along a shared script introducing new functions, packages, and datasets, which focus on data cleaning and tidying, manipulation, visualization, and analysis. Sessions end with a series of challenges for individual, paired, and small group practice.
 
-1. Numbered
-2. List
+Each new session tends to builds on previous ones, but these meetups are designed to be intuitive, immersive, and paced for learners with little to no programming or data science experience. Local and regional data are often used, while learning objectives are geared towards the Public and Nonprofit Sectors.
 
-**Bold** and _Italic_ and `Code` text
+### Contact
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cnycf/CommunityData/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+For questions, ideas, announcements, or contributions, including presentations and discussions, please contact Facilitator Jamison Crawford at [jrcrawfo@syr.edu](jrcrawfo@syr.edu).
