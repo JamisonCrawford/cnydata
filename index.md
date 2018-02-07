@@ -22,6 +22,8 @@ Each new session tends to builds on previous ones, but these meetups are designe
 
 To view all R Learning Community content, visit the [R Learning Community G Drive](https://drive.google.com/drive/folders/0Bw2_-OoxEGlbc3JCNks4UF82alk?usp=sharing).
 
-### Contact
+### About & Contact
+
+Community Data is made possible by the [Central New york Community Foundation](https://www.cnycf.org/).
 
 For questions, ideas, announcements, or contributions, including presentations and discussions, please contact Facilitator Jamison Crawford at [jrcrawfo@syr.edu](jrcrawfo@syr.edu).
