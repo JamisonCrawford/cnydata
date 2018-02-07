@@ -1,3 +1,13 @@
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-113712859-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-113712859-1');
+</script>
+
 ## Welcome to CNY Community Data
 
 CNYCF is devoted to cultivating a culture of data sharing and data-driven decision-making among social sector organizations throughout the Central NY region.
