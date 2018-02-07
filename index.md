@@ -20,7 +20,7 @@ The R Learning Community focuses on the fundamentals of R programming, RStudio, 
 
 Each new session tends to builds on previous ones, but these meetups are designed to be intuitive, immersive, and paced for learners with little to no programming or data science experience. Local and regional data are often used, while learning objectives are geared towards the Public and Nonprofit Sectors.
 
-To view all R Learning Community, visit the [R Learning Community G Drive](https://drive.google.com/drive/folders/0Bw2_-OoxEGlbc3JCNks4UF82alk?usp=sharing).
+To view all R Learning Community content, visit the [R Learning Community G Drive](https://drive.google.com/drive/folders/0Bw2_-OoxEGlbc3JCNks4UF82alk?usp=sharing).
 
 ### Contact
 
